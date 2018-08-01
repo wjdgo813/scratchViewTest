@@ -1,0 +1,6 @@
+framework module Pods_ScratchTestTests {
+  umbrella header "Pods-ScratchTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
